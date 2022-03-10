@@ -1,0 +1,35 @@
+.banner-title p{
+    max-width: 50vw;
+}
+.banner-title-research{
+    display: flex;
+    padding: 20px;
+}
+.banner-title .banner-title-research img{
+    height: 100px;
+    width: 100px;
+}
+.banner-title{
+    margin: 0 130px;
+    color: white;
+}
+.content-details p{
+    line-height: 1.6;
+    font-size: 1.2em;
+    font-style: italic;
+}
+.banner-title h1{
+    font-size: 64px;
+    margin-bottom: 30px;
+}
+.banner-title h1 span{
+    color: yellow;
+}
+@media(max-width: 700px){
+    .banner-title{
+        margin: 80px 40px;
+    }
+    .banner-title h1{
+        font-size: 50px;
+    }
+}

@@ -1,0 +1,40 @@
+.add-event{
+    margin-right: 20px;
+    float: right;
+}
+.add-event i{
+    font-size: 20px;
+}
+.individual-contents{
+    display: flex;
+    color: white;
+    margin: 80px 130px;
+    align-items: center;
+}
+.individual-contents img{
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
+.individual-contents p{
+    line-height: 1.6;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+.btn{
+    padding: 10px 20px;
+    border: 0;
+    background: yellow;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.btn1{
+    padding: 10px 20px;
+    margin-top: 5px;
+    border: 1px solid yellow;
+    border-radius: 10px;
+    background: transparent;
+    font-weight: bold;
+    cursor: pointer;
+    color: white;
+    text-transform: uppercase;
+}

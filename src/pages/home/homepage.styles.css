@@ -1,0 +1,52 @@
+.banner-title{
+    margin: 0 130px;
+    color: white;
+    height: 70vh;
+}
+/* .banner-title p{
+    max-width: 50vw;
+} */
+.banner-title h1{
+    font-size: 64px;
+    /* margin-bottom: 30px; */
+}
+.banner-title h1 span{
+    color: yellow;
+}
+.inspiration{
+    display: flex;
+    width: 90%;
+    float: right;
+}
+.inspire-contents{
+    color: white;
+    line-height: 1.6;
+    float: right;
+    max-width: 40%;
+}
+.inspire-contents h3{
+    font-family: 'Fruktur', cursive;
+    font-size: 2rem;
+}
+.inspire-contents p{
+    font-size: 1.2rem;
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+.details{
+    display: inline-flex;
+    background-color: yellow;
+    width: 100%;
+    float: right;
+}
+.display-contents{
+    margin: 20px 50px;
+}
+.details h3{
+    font-family: 'Zen Kurenaido', sans-serif;
+}
+.display-contents p{
+    line-height: 2;
+}
+.display-contents img{
+    height: 120px;   
+}
